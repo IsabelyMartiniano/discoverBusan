@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  :root {
+    font-family: "Open Sans", sans-serif;
+  }
+
+  body{
+  background-color: #F5F4F0;
+  } 
+
+  #description img:first-of-type {
+    width: 1120px; 
+    height: auto; 
+}
+
+  img {
+    border-radius: 30px;
+    width: 1120px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  #page{
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 400px;
+    margin-top: 80px;
+  }
+
+  #page span{
+    color: #E1624F;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  h1, h2, h3{
+    color: #1B1B1B;
+
+  }
+  h1{
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 40px;
+  }
+  #description img{
+    margin-bottom: 24px;
+  }
+
+  #description p{
+    font-style: italic;
+    text-align: center;
+    color: #333333;
+    margin-bottom: 44px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  hr {
+      color: #d9d9d9;
+      border: solid 1px;
+      margin: 40px auto 64px auto;
+    }
+
+  h1 {
+      margin-top: 10px;
+    }
+
+  h2 {
+    margin-bottom: 8px;
+    font-size: 32px;
+  }
+
+  #title p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 64px;
+    text-align: left;
+  }
+
+  h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 4px;
+  }
+
+   ul {
+    padding-left: 24px;
+  }
+
+  #beomeo img {
+    margin-top: 48px;
+  }
+
+  #yong img {
+    margin-top: 48px;
+  }
+
+  .paragraph {
+    text-align: center;
+    margin-top:40px;
+  }
+
+  ul li {
+    color: #0C51A7;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .casais {
+    color: #591B98;
+  }
+
+  .familia {
+    color: #E5245E;
+  }
+
+  .orcamento {
+    color: #E95E10;
+  }
+
+  footer {
+    text-align: center;
+    padding-bottom: 48px;
+    word-spacing: 4px;
+  }
+  
+
